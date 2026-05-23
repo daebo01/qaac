@@ -14,3 +14,4 @@ cf. https://hydrogenaud.io/index.php/topic,85135.msg1056191.html#msg1056191
 
 You need Microsoft Visual C++ 2010 to build qaac/refalac.
 AMD64 build is only available for refalac.
+
